@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @theSoftwareTaylor
 - 👀 I’m interested in Flutter, Constraint Logic Programming, Functional Programming and AI.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: thesoftwaretaylor@gmail.com 
 
 <!---
